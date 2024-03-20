@@ -13,5 +13,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/22962822/sangita-manna',
   leetcode: "#",
   devUsername: "sangitaDev272",
-  resume: "https://res.cloudinary.com/damsdedum/image/upload/v1704786878/Sangita_Manna_s_Resume_z5dzoj.pdf"
+  resume: "https://res.cloudinary.com/damsdedum/image/upload/v1704786878/Sangita_Manna_s_Resume_z5dzoj.pdf",
+  apiKey: "AIzaSyDZJg0q-S0hzlFukPghoKTD_j8VV94FCKk"
 }
